@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 import { IoMdSearch } from "react-icons/io";
 import { FaCartShopping } from "react-icons/fa6";

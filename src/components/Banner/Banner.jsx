@@ -1,4 +1,3 @@
-import React from "react";
 import BannerImg from "../../assets/4547829.jpg";
 import { GrSecure } from "react-icons/gr";
 import { IoFastFood } from "react-icons/io5";
